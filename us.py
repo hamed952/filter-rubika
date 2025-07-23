@@ -1,6 +1,6 @@
 import random
 from random import randint
-import string
+import string.
 import uuid
 import os
 import time 
